@@ -18,4 +18,4 @@ Desenvolver uma plataforma para gerenciamento de projetos ágeis, permitindo aos
 | R09 | Não-Funcional| Interface Intuitiva | Interface deve ser responsiva e acessível. |
 
 ## 🎨 Protótipo
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/CRb5ilo0rynwz69uDzC1Qs/Harpia?embed-host=share" allowfullscreen></iframe>
+[Protótipo no Figma](https://www.figma.com/proto/CRb5ilo0rynwz69uDzC1Qs/Harpia?node-id=3-2271&t=1v317B9IC7wgwwsO-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
